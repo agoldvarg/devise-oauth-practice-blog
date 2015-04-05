@@ -15,6 +15,9 @@ gem 'omniauth'
 gem 'omniauth-facebook'
 gem 'omniauth-github'
 gem 'omniauth-google-oauth2'
+gem 'private_pub'
+gem 'thin'
+
 
 group :development, :test do
   gem 'pry'
